@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Bitcoin Only'
 theme = 'bitcoinonly'
 
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+
 [[params.navigationLinks]]
   title = "Home"
   to = "/"

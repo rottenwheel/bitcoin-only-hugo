@@ -1,0 +1,11 @@
+<div id="side-navigation" class="mobile-side-nav" data-mobile-side-nav>
+    <div class="logo">
+        <a href="{{ "/" | relURL }}">
+            <img src="{{ "bitcoin-only-logo.png" | relURL }}" alt="Bitcoin Only">
+        </a>
+    </div>
+
+    <ul class="main-links">
+        {{ partial "nav-links.html" . }}
+    </ul>
+</div>

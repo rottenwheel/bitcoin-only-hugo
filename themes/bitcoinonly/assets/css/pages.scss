@@ -108,3 +108,185 @@ p {
 		padding: 15px 20px 20px;
 	}
 }
+
+/* Prose page styles (ported from Vue scoped styles) */
+.about-me {
+	max-width: 800px;
+}
+.quote-wrapper {
+	margin-top: 40px;
+	max-width: 600px;
+	text-align: center;
+	background: #181c25;
+	padding: 20px 30px;
+	border: 1px solid rgba(255, 255, 255, 0.08);
+	border-radius: 5px;
+
+	.quote {
+		font-size: 18px;
+		font-style: italic;
+		margin-bottom: 15px;
+	}
+	.author {
+		color: rgba(255, 255, 255, 0.55);
+	}
+}
+.contact-methods {
+	margin-top: 20px;
+
+	li {
+		margin-bottom: 10px;
+	}
+}
+h3.first {
+	margin-top: 20px;
+}
+.poster-instructions,
+.requirements-list {
+	span {
+		color: #f2ad4f;
+		width: 22px;
+		display: inline-block;
+	}
+}
+.poster-instructions {
+	margin-bottom: 0;
+}
+.bitcoin-only-poster {
+	width: 100%;
+	max-width: 600px;
+	margin-top: 40px;
+	border-radius: 10px;
+}
+.listing-requirements-page {
+	h3 {
+		margin-top: 30px;
+		margin-bottom: 20px;
+	}
+	img {
+		width: 100%;
+		max-width: 800px;
+		margin: 20px 0;
+	}
+}
+.requirements-list {
+	margin-top: 25px;
+}
+#what-is-bitcoin-page {
+	h3 {
+		margin-top: 25px;
+	}
+}
+.diagram {
+	margin-top: 30px;
+	width: 100%;
+	max-width: 800px;
+}
+#promote-page {
+	h3 {
+		margin-top: 30px;
+		margin-bottom: 20px;
+	}
+}
+.explainer {
+	margin-bottom: 30px;
+}
+.footnote {
+	max-width: 800px;
+	text-align: center;
+	font-style: italic;
+	color: rgba(255, 255, 255, 0.45);
+	margin-top: 20px;
+}
+/* Section headings on catalog pages */
+#hardware-page,
+#store-tools-page,
+#explorers-dashboards-page,
+#dev-tools-page,
+#videos-page,
+#podcasts-page,
+#spend-bitcoin-page,
+#learning-resources-page,
+#get-bitcoin-page,
+#conferences-page,
+#peers-page,
+#privacy-page {
+	h3 {
+		margin-top: 30px;
+	}
+}
+#books-page,
+#wallets-page,
+#meetups-page {
+	h3 {
+		margin-top: 30px;
+	}
+}
+#books-page .tbl-wrapper {
+	max-width: none;
+}
+#wallets-page {
+	.tbl-wrapper {
+		max-width: 1000px;
+	}
+	.footnotes {
+		margin-top: 40px;
+
+		sup {
+			margin-left: 0;
+			margin-right: 6px;
+			top: 4px;
+			font-size: 14px;
+			color: #f2ad4f;
+			position: relative;
+		}
+	}
+	sup {
+		color: #f2ad4f;
+		margin-left: 5px;
+		font-size: 12px;
+		top: 2px;
+		position: relative;
+	}
+	.feature-yes,
+	.feature-no {
+		display: inline-block;
+		font-size: 22px;
+		line-height: 1;
+	}
+	.feature-yes {
+		color: #f2ad4f;
+	}
+	.feature-no {
+		color: rgba(255, 255, 255, 0.35);
+	}
+}
+#meetups-page {
+	h3 {
+		margin-top: 25px;
+	}
+}
+#get-bitcoin-page,
+#peers-page {
+	.explainer {
+		margin-top: -15px;
+	}
+}
+#get-bitcoin-page {
+	.tbl-wrapper {
+		max-width: 900px;
+	}
+	.footnote {
+		max-width: 900px;
+	}
+}
+.footnotes {
+	margin-top: 40px;
+}
+#conferences-page .tbl-row > div a {
+	color: #fff;
+
+	&:hover {
+		color: #f2ad4f;
+	}
+}

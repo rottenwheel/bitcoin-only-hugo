@@ -22,7 +22,9 @@
 			border: none;
 		}
 		img {
-
+			display: block;
+			width: 100%;
+			height: auto;
 		}
 	}
 
@@ -44,7 +46,7 @@
 				color: #f2ad4f;
 			}
 
-			&.nuxt-link-active {
+			&.active {
 				color: #f2ad4f;
 				background: #101218;
 				border-radius: 4px 0 0 4px;
