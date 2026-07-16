@@ -1,0 +1,54 @@
+{{- /*
+  Resource table matching Vue tbl-* CSS classes.
+  Usage:
+    {{< table headers="Name,Description" >}}
+    Title|https://example.com|Description text
+    PlainTitle||Description without link
+    {{< /table >}}
+
+  Use \| inside a cell for a literal pipe character.
+  Columns: first field is title, second is URL (empty = plain text),
+  remaining fields are additional cells (HTML allowed).
+*/ -}}
+{{- $headers := split (.Get "headers") "," -}}
+<div class="tbl-scroller">
+	<div class="tbl-wrapper">
+		<div class="tbl-header">
+			{{- range $headers -}}
+			<div class="tbl-title">{{ . | strings.TrimSpace }}</div>
+			{{- end -}}
+		</div>
+		{{- $raw := trim .Inner "\n\r \t" -}}
+		{{- $rows := split $raw "\n" -}}
+		{{- range $rows -}}
+			{{- $line := trim . "\r \t" -}}
+			{{- if and $line (not (strings.HasPrefix $line "#")) -}}
+			{{- /* Split on | that are not escaped with \ */ -}}
+			{{- $tmp := replace $line `\|` "\u0001" -}}
+			{{- $cols := split $tmp "|" -}}
+			<div class="tbl-row">
+				{{- if ge (len $cols) 2 -}}
+					{{- $title := index $cols 0 | strings.TrimSpace | replaceRE "\u0001" "|" -}}
+					{{- $url := index $cols 1 | strings.TrimSpace | replaceRE "\u0001" "|" -}}
+					<div>
+						{{- if $url -}}
+						<a href="{{ $url }}" target="_blank">{{ $title | safeHTML }}</a>
+						{{- else -}}
+						{{ $title | safeHTML }}
+						{{- end -}}
+					</div>
+					{{- range $i, $col := $cols -}}
+						{{- if ge $i 2 -}}
+						<div>{{ $col | strings.TrimSpace | replaceRE "\u0001" "|" | safeHTML }}</div>
+						{{- end -}}
+					{{- end -}}
+				{{- else -}}
+					{{- range $cols -}}
+					<div>{{ . | strings.TrimSpace | replaceRE "\u0001" "|" | safeHTML }}</div>
+					{{- end -}}
+				{{- end -}}
+			</div>
+			{{- end -}}
+		{{- end -}}
+	</div>
+</div>

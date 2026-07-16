@@ -1,0 +1,13 @@
+{{- $current := .RelPermalink -}}
+{{- range .Site.Params.navigationLinks -}}
+{{- $href := .to | relURL -}}
+{{- $active := false -}}
+{{- if eq .to "/" -}}
+	{{- $active = $.IsHome -}}
+{{- else if or (eq $current $href) (eq $current (printf "%s/" (strings.TrimSuffix "/" $href))) (hasPrefix $current (printf "%s/" (strings.TrimSuffix "/" $href))) -}}
+	{{- $active = true -}}
+{{- end -}}
+<li>
+	<a href="{{ $href }}"{{ if $active }} class="active"{{ end }}>{{ .title }}</a>
+</li>
+{{- end -}}

@@ -1,6 +1,6 @@
-<div id="mobile-top-navigation" class="{{ if .Params.showMobileSideNav }}mobile-side-nav-open{{ end }}">
+<div id="mobile-top-navigation">
     <div class="mobile-menu-toggle">
-        <input type="checkbox" id="mobile-menu-toggle" onchange="this.parentNode.classList.toggle('active');" />
+        <input type="checkbox" id="mobile-menu-toggle" aria-label="Toggle navigation" />
         <span></span>
         <span></span>
         <span></span>
@@ -8,7 +8,7 @@
 
     <div class="logo">
         <a href="{{ "/" | relURL }}">
-            <img src="{{ "/bitcoin-only-logo.png" | relURL }}" alt="Bitcoin Only" />
+            <img src="{{ "bitcoin-only-logo.png" | relURL }}" alt="Bitcoin Only" />
         </a>
     </div>
 </div>

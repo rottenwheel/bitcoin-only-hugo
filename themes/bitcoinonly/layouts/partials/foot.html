@@ -1,1 +1,29 @@
-<!-- nothing here -->
+<script>
+(function () {
+	var toggle = document.getElementById('mobile-menu-toggle');
+	var topNav = document.getElementById('mobile-top-navigation');
+	var sideNav = document.querySelector('[data-mobile-side-nav]');
+	var toggleWrap = toggle && toggle.parentNode;
+
+	function setOpen(open) {
+		if (sideNav) sideNav.classList.toggle('side-nav-open', open);
+		if (topNav) topNav.classList.toggle('mobile-side-nav-open', open);
+		if (toggleWrap) toggleWrap.classList.toggle('active', open);
+		if (toggle) toggle.checked = open;
+	}
+
+	if (toggle) {
+		toggle.addEventListener('change', function () {
+			setOpen(toggle.checked);
+		});
+	}
+
+	if (sideNav) {
+		sideNav.querySelectorAll('a').forEach(function (link) {
+			link.addEventListener('click', function () {
+				setOpen(false);
+			});
+		});
+	}
+})();
+</script>
