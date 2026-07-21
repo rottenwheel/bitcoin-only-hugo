@@ -18,12 +18,6 @@ description: "Listing requirement for Bitcoin Only."
 
 <h3>How Do I Get My Project Added?</h3>
 
-<p>Simply make an issue on the GitHub repo by <a href="https://github.com/bitcoin-only/bitcoin-only/issues/new/choose" target="_blank">following this link</a> and clicking the "Content Suggestion - Get Started" button (see below image):</p>
-
-<img src="/content-suggestion.png" alt="Suggest new content on Bitcoin-only">
-
-<p>Replace the words in CAPITAL LETTERS and click "Submit New Issue"</p>
-
-<img src="/content-suggestion-example.png" alt="Suggest new content example on Bitcoin-only">
+<p>Simply make an issue on the GitHub repo by <a href="https://github.com/rottenwheel/bitcoin-only-hugo/issues" target="_blank">following this link</a>.
 
 </div>
