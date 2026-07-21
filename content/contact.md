@@ -10,8 +10,8 @@ description: "Have any questions? Need some help? Contact me and I'll do my best
 <p>Have any questions? Need some help? Please get in touch and we will do our best to help.</p>
 
 <ul class="contact-methods">
-<li>Twitter - <a href="https://twitter.com/bitcoinonly_" target="_blank">@bitcoinonly_</a></li>
-<li>GitHub Issue - <a href="https://github.com/bitcoin-only/bitcoin-only/issues/new/choose" target="_blank">Raise an issue on GitHub</a></li>
+<li>Twitter - <a href="https://twitter.com/rottenwheel1" target="_blank">@rottenwheel1</a></li>
+<li>GitHub Issue - <a href="https://github.com/rottenwheel/bitcoin-only-hugo/issues" target="_blank">Raise an issue on GitHub</a></li>
 </ul>
 
 </div>
