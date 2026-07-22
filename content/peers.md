@@ -12,9 +12,9 @@ description: "A collection of people we have worked with in the past."
 <p class="explainer">We are proud to have supported/worked with the following peers on site content:</p>
 
 {{< table headers="Peer,We Gave,We Received" >}}
-Bitko Yinowsky|https://twitter.com/BitkoYinowsky|-|<a href="http://bitcoin-only.com/" target="_blank">Main Logo & Page Logos</a>
-Greg Walker|https://twitter.com/in3rsha|-|<a href="https://github.com/bitcoin-only/bitcoin-only/blob/master/pages/what-is-bitcoin.vue" target="_blank">Introduction to Bitcoin</a>
-Marc Chouinard|https://twitter.com/TheRealestMarc|-|<a href="https://bitcoin-only.com" target="_blank">Complete website redesign</a>
+Bitko Yinowsky|https://twitter.com/BitkoYinowsky|-|<a href="https://btc.rottenwheel.com/" target="_blank">Main Logo & Page Logos</a>
+Greg Walker|https://twitter.com/in3rsha|-|<a href="https://github.com/rottenwheel/bitcoin-only-hugo/blob/master/content/what-is-bitcoin.md" target="_blank">Introduction to Bitcoin</a>
+Marc Chouinard|https://twitter.com/TheRealestMarc|-|<a href="https://btc.rottenwheel.com/" target="_blank">Complete website redesign</a>
 Max Hillebrand|https://twitter.com/hillebrandmax|-|<a href="https://www.youtube.com/playlist?list=PLPj3KCksGbSYX2cNoOaV-w-9QuZ62LDk_" target="_blank">Video Series</a>
 Phneep|https://twitter.com/phneep|BTC|<a href="/promote" target="_blank">Commissioned Art</a>
 Ti Kawamoto|https://twitter.com/TiKawamoto|-|Old Logo
@@ -38,7 +38,7 @@ Why Hold Bitcoin|https://whyholdbitcoin.com/resources/|No
 {{< /table >}}
 
 <div class="footnotes">
-<p>If I missed your shout out please <a href="https://twitter.com/6102bitcoin" target="_blank">get in touch</a> and I'll make amends.</p>
+<p>If I missed your shout out please <a href="https://btc.rottenwheel.com/contact/" target="_blank">get in touch</a> and I'll make amends.</p>
 
 <p>A shoutout does not entitle your project to being listed or bump you up the list to be evaluated. Only projects listed on bitcoin-only.com will be featured on this list for helping support our growth.</p>
 </div>
