@@ -25,7 +25,7 @@ description: "A collection of Bitcoin only meetups."
 Bitcoin Enemies (Inactive)|https://bitcoinenemies.com/|24/7 voice chat
 Reckless VR|https://www.recklessvr.com/|VR meetup *
 Bitcoin Only VR Downunder|https://t.me/bitcoinvr_aus|VR meetup *
-The Sovereign Bitcoiner|https://t.me/SovereignBitcoiner|24/7 voice chat
+The Sovereign Bitcoiner|https://t.me/SovereignBitcoiner|24/7 chat
 {{< /table >}}
 
 <div class="footnote">* Weekly, accessible without a VR headset</div>
