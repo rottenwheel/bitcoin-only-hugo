@@ -14,18 +14,18 @@ description: "A collection of Bitcoin only meetups."
 <li>Do your own research before attending</li>
 <li>Do not reveal personal information</li>
 <li>Do not tell anyone how much bitcoin you own</li>
-<li>Do <a href="https://github.com/bitcoin-only/bitcoin-only/issues/new?assignees=&labels=update&template=update-suggestion.md&title=Update+Suggestion%3A+NAME+OF+CONTENT+TO+BE+UPDATED" target="_blank">raise an issue</a> if you have a bad experience</li>
+<li>Do <a href="https://github.com/rottenwheel/bitcoin-only-hugo/issues" target="_blank">raise an issue</a> if you have a bad experience</li>
 </ul>
-<p> To get your meetup added <a href="https://github.com/bitcoin-only/bitcoin-only/issues/new?assignees=&labels=meetup&template=meetup-suggestion.md&title=Meetup+Suggestion%3A+%2A%2AExample+Bitcoin+Meetup%2A%2A" target="_blank">raise an issue</a>.</p>
+<p> To get your meetup added <a href="https://github.com/rottenwheel/bitcoin-only-hugo/issues" target="_blank">raise an issue</a>.</p>
 {{< /getting-started >}}
 
 <h3>Cyberspace</h3>
 
 {{< table headers="Meetup,Description" >}}
-Bitcoin Enemies|https://bitcoinenemies.com/|24/7 voice chat
+Bitcoin Enemies (Inactive)|https://bitcoinenemies.com/|24/7 voice chat
 Reckless VR|https://www.recklessvr.com/|VR meetup *
 Bitcoin Only VR Downunder|https://t.me/bitcoinvr_aus|VR meetup *
-Sovereign Club|https://matrix.to/#/#SovereignClub:matrix.org|24/7 voice chat
+The Sovereign Bitcoiner|https://t.me/SovereignBitcoiner|24/7 voice chat
 {{< /table >}}
 
 <div class="footnote">* Weekly, accessible without a VR headset</div>
