@@ -9,7 +9,7 @@ description: "A collection of Bitcoin privacy tools."
 
 {{< getting-started >}}
 <p>Don't reuse addresses, learn to CoinJoin and use your own node. </p>
-<p>Read how to <a href="https://bitcoinprivacy.guide/" target="_blank">use Bitcoin Privately</a> & <a href="https://en.bitcoin.it/Privacy" target="_blank">the bitcoin wiki page</a></p>
+<p>Read how to <a href="https://bitcoiner.guide/privacy/" target="_blank">use Bitcoin Privately</a> & <a href="https://en.bitcoin.it/Privacy" target="_blank">the bitcoin wiki page</a></p>
 {{< /getting-started >}}
 
 <h3>CoinJoin Tools</h3>
@@ -34,11 +34,11 @@ An Incomplete Survey of Bitcoin's Privacy Technologies|http://hongchao.me/bitcoi
 A Beginners Guide to Bitcoin Privacy|https://bitcoinprivacy.guide/|<a href="https://twitter.com/BitcoinQ_A" target="_blank">Bitcoin Q+A</a>
 Bitcoin Privacy Wiki|https://en.bitcoin.it/wiki/Privacy|<a href="https://twitter.com/chris_belcher_/" target="_blank">Chris Belcher</a>
 JoinMarket.me (Bitcoin Privacy Blog)|https://joinmarket.me/|<a href="https://twitter.com/waxwing__" target="_blank">Adam Gibson</a>
-CoinJoin Overview|https://6102bitcoin.com/coinjoin-overview|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
-The CoinJoin Bounty Thread|https://6102bitcoin.com/coinjoin-the-bounty-thread|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
-CoinJoin Research Repo|https://github.com/6102bitcoin/CoinJoin-Research/tree/master/CoinJoin_Research|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
-Hodl Privacy|https://6102bitcoin.com/faq-hodl-privacy/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
-Do exchanges flag CoinJoin UTXO’s?|https://6102bitcoin.com/coinjoin-flagging|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
+CoinJoin Overview|https://web.archive.org/web/20201104212602/https://6102bitcoin.com/coinjoin-overview/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
+The CoinJoin Bounty Thread|https://web.archive.org/web/20201204235616/https://6102bitcoin.com/coinjoin-the-bounty-thread/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
+CoinJoin Research Repo|https://web.archive.org/web/20201112024417/https://github.com/6102bitcoin/CoinJoin-Research|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
+Hodl Privacy|https://web.archive.org/web/20240324133755/https://6102bitcoin.com/faq-hodl-privacy/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
+Do exchanges flag CoinJoin UTXO’s?|https://web.archive.org/web/20240324131704/https://6102bitcoin.com/coinjoin-flagging/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
 Seed/Backup FAQ|https://bitcoin-intro.com/en/backup|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
 {{< /table >}}
 
