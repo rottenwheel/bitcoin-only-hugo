@@ -31,6 +31,7 @@ Muun Wallet|https://muun.com/|<span class="feature-no" aria-label="no">○</span
 Bitcoin Core|https://bitcoincore.org/|Full node & Bitcoin wallet|Desktop
 Blockstream Green|https://blockstream.com/green/|Bitcoin Wallet with option for 2FA & HW|iOS, Android & Desktop
 Blue Wallet|https://bluewallet.io/|Feature rich Bitcoin wallet<sup>[1]</sup>,<sup>[7]</sup>|iOS, Android, MacOS
+Bull Wallet|https://wallet.bullbitcoin.com/en|Feature rich Bitcoin wallet|iOS, Android
 Caravan|https://unchained-capital.github.io/caravan/#/|Stateless multi-sig coordinator|Desktop
 Electrum|https://electrum.org/#home|The most feature rich bitcoin desktop wallet available today|Desktop, Android
 Fully Noded|https://fonta1n3.github.io/FullyNoded/|Advanced iOS wallet that connects to Bitcoin Core|iOS
