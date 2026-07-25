@@ -12,6 +12,7 @@ description: "A collection of Bitcoin only conferences."
 <h3>Upcoming</h3>
 
 {{< table headers="Conferences,Location,Dates" >}}
+Watch Out, Bitcoin!|https://wobitcoin.org/|Madrid / Spain|2026 / October / 2nd-4th
 Advancing Bitcoin|https://www.advancingbitcoin.com/|London / UK|2023 / March / 2nd-3rd
 Empower, Energizing Bitcoin|https://digitalwildcatters.com/empower-2023/|Houston, TX / USA|2023 / March / 7th-9th
 Nigeria Bitcoin Conference|https://nigeriabitcoinconference.com/|Lagos, Nigeria|2023 / March / 24th-25th
