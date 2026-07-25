@@ -29,6 +29,7 @@ Muun Wallet|https://muun.com/|<span class="feature-no" aria-label="no">○</span
 
 {{< table headers="Project,Description,Platform" >}}
 Bitcoin Core|https://bitcoincore.org/|Full node & Bitcoin wallet|Desktop
+Bitkit Wallet|https://bitkit.to/|iOS, Android 
 Blockstream Green|https://blockstream.com/green/|Bitcoin Wallet with option for 2FA & HW|iOS, Android & Desktop
 Blue Wallet|https://bluewallet.io/|Feature rich Bitcoin wallet<sup>[1]</sup>,<sup>[7]</sup>|iOS, Android, MacOS
 Bull Wallet|https://wallet.bullbitcoin.com/en|Feature rich Bitcoin wallet|iOS, Android
@@ -47,6 +48,7 @@ Specter|https://github.com/cryptoadvance/specter-desktop|Desktop GUI for Bitcoin
 
 {{< table headers="Project,Description,Platform" >}}
 Alby|https://getalby.com/|Bitcoin Lightning Payments and Identity Browser Extension<sup>[8]</sup>|Web
+Bitkit Wallet|https://bitkit.to/|Self-custodial Bitcoin Lightning Wallet|iOS & Android
 Blixt Wallet|https://blixtwallet.github.io/|Non-custodial Bitcoin Lightning Wallet|iOS & Android (Beta)
 Breez|https://breez.technology/|Mobile non-custodial wallet<sup>[0]</sup>|iOS & Android (Beta)
 Eclair|https://github.com/ACINQ/eclair|Lightning node software|Desktop
