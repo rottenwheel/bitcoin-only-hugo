@@ -29,7 +29,7 @@ Bitcoin Support|https://www.bitcoinsupport.com/|One-on-one Bitcoin phone support
 {{< table headers="Name,Description" >}}
 Bitscribble|https://bitscribble.com/|Write 40 bytes of data to the blockchain
 BTCmessage|https://btcmessage.com/|Write data into the blockchain with vanity addrs
-BullBitcoin|https://bullbitcoin.com/|Non-custodial Bitcoin services
+Bull Bitcoin|https://bullbitcoin.com/|Non-custodial Bitcoin services
 Bylls|https://bylls.com/|Pay bills (Canada)
 Fold App|https://foldapp.com/|Buy vouchers with Bitcoin cashback
 Host4Coins|https://host4coins.net/|VPS Hosting
@@ -59,7 +59,7 @@ Satoshis Place|https://satoshis.place/|Lightning canvas
 {{< table headers="Name,Description" >}}
 1.21 Jigawatts|https://www.jigawatt.co/|Stamps, stickers, & more
 21 million|https://21million.co/|Bitcoin Apparel
-21X|https://www.21x.io/|Bitcoin art, designs, & merchandise
+Bull BTC Store|https://store.bullbitcoin.com/|Bitcoin art, designs, & merchandise
 Arnhem Bitcoin City|https://www.arnhembitcoinstad.nl/|A Bitcoin friendly city
 Bitcoin Shirt|https://bitcoinshirt.co/|Bitcoin merchandise
 Bitcoin Tunnels|https://www.bitcointunnels.com/|Clothing, mugs, & more
