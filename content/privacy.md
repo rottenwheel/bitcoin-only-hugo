@@ -39,7 +39,7 @@ The CoinJoin Bounty Thread|https://web.archive.org/web/20201204235616/https://61
 CoinJoin Research Repo|https://web.archive.org/web/20201112024417/https://github.com/6102bitcoin/CoinJoin-Research|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
 Hodl Privacy|https://web.archive.org/web/20240324133755/https://6102bitcoin.com/faq-hodl-privacy/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
 Do exchanges flag CoinJoin UTXO’s?|https://web.archive.org/web/20240324131704/https://6102bitcoin.com/coinjoin-flagging/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
-Seed/Backup FAQ|https://bitcoin-intro.com/en/backup|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
+Seed/Backup FAQ|https://btcintro.rottenwheel.com/en/backup.html|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
 {{< /table >}}
 
 </div>
