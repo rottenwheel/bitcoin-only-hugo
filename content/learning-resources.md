@@ -94,7 +94,7 @@ Shamir Secret Sharing|https://github.com/MaxHillebrand/LightningMultiSig/blob/ma
 <h3>Research</h3>
 
 {{< table headers="Title,Description" >}}
-Coinjoin Research|https://github.com/6102bitcoin/CoinJoin-Research|Coinjoin research by 6102bitcoin
+Coinjoin Research|https://github.com/rottenwheel/CoinJoin-Research|Coinjoin research by 6102bitcoin
 Bitcoin And The Trust Issue: Is Bitcoin Adoption Accelerated By The Abuse Of Trust?|https://karozagorus.keybase.pub/KaroZagorus-2020-Thesis.pdf|Bitcoin research thesis about Bitcoin and social organization
 Cryptoasset Consumer Research 2020|https://www.fca.org.uk/publication/research/research-note-cryptoasset-consumer-research-2020.pdf|Research by the UK FCA
 {{< /table >}}
