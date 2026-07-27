@@ -36,7 +36,7 @@ Bitcoin Privacy Wiki|https://en.bitcoin.it/wiki/Privacy|<a href="https://twitter
 JoinMarket.me (Bitcoin Privacy Blog)|https://joinmarket.me/|<a href="https://twitter.com/waxwing__" target="_blank">Adam Gibson</a>
 CoinJoin Overview|https://web.archive.org/web/20201104212602/https://6102bitcoin.com/coinjoin-overview/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
 The CoinJoin Bounty Thread|https://web.archive.org/web/20201204235616/https://6102bitcoin.com/coinjoin-the-bounty-thread/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
-CoinJoin Research Repo|https://github.com/6102bitcoin/CoinJoin-Research|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
+CoinJoin Research Repo|https://github.com/rottenwheel/CoinJoin-Research|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
 Hodl Privacy|https://web.archive.org/web/20240324133755/https://6102bitcoin.com/faq-hodl-privacy/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
 Do exchanges flag CoinJoin UTXO’s?|https://web.archive.org/web/20240324131704/https://6102bitcoin.com/coinjoin-flagging/|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
 Seed/Backup FAQ|https://btcintro.rottenwheel.com/en/backup.html|<a href="https://twitter.com/6102bitcoin" target="_blank">6102bitcoin</a>
