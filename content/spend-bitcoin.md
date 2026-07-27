@@ -59,13 +59,13 @@ Satoshis Place|https://satoshis.place/|Lightning canvas
 {{< table headers="Name,Description" >}}
 1.21 Jigawatts|https://www.jigawatt.co/|Stamps, stickers, & more
 21 million|https://21million.co/|Bitcoin Apparel
-Bull BTC Store|https://store.bullbitcoin.com/|Bitcoin art, designs, & merchandise
 Arnhem Bitcoin City|https://www.arnhembitcoinstad.nl/|A Bitcoin friendly city
 Bitcoin Shirt|https://bitcoinshirt.co/|Bitcoin merchandise
 Bitcoin Tunnels|https://www.bitcointunnels.com/|Clothing, mugs, & more
 Bitcoin Gear|https://www.bitcoin-gear.com/|Bitcoin merchandise
 Bitko Yinowsky|https://bitko.cc/|Bitcoin art
 BTC Pins|https://www.btcpins.com/|Bitcoin lapel pins & stickers
+Bull BTC Store|https://store.bullbitcoin.com/|Bitcoin art, designs, & merchandise
 CryptoCloaks|https://www.cryptocloaks.com/|3D printed cases & custom nodes
 DIYnodes|https://diynodes.com/|Bitcoin nodes & more
 Konsensus Network|https://konsensus.network/shop|The Bitcoin publishing house
@@ -73,6 +73,7 @@ Orange Coin Goods|https://orangecoingoods.com/|Bitcoin apparel & more
 Liberty Mugs|https://www.libertymugs.com/|Mugs, t-shirts, & more
 Lightning Hood|https://lightninghood.com/shop/|Consultation, t-shirts, & more
 Lightning Hosted|https://lightninghosted.com/|Simple image hosting
+Madex Art|https://madex.art/|Regalia, fine art, & clothing
 Mt. Socks|https://www.mtsocks.com/|Socks
 Original Satoshi|https://www.originalsatoshi.com/|Stickers & more
 PirateHash|https://piratehash.com/|Bitcoin curiosities & educational materials
