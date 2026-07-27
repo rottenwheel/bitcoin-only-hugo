@@ -15,7 +15,7 @@ description: "A collection Bitcoin only wallets."
 </ul>
 {{< /getting-started >}}
 
-<p>It is very important that you learn how to back up your mnemonic seed and that if you use a passphrase, you back that up too. Read <a href="https://bitcoin-intro.com/en/backup" target="_blank">this document</a> to learn more about backing up your wallet and check out the <a href="/privacy">privacy page</a>.</p>
+<p>It is very important that you learn how to back up your mnemonic seed and that if you use a passphrase, you back that up too. Read <a href="https://btcintro.rottenwheel.com/en/backup.html" target="_blank">this document</a> to learn more about backing up your wallet and check out the <a href="/privacy">privacy page</a>.</p>
 <p>See <a href="https://veriphi.io/en/blog/software-wallet-analysis" target="_blank">this report</a> for a comparison of the features of many of the wallets listed below.</p>
 
 <h3>Recommended Wallets</h3>
