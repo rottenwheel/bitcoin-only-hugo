@@ -8,7 +8,7 @@ description: "A collection of educational resources to learn more about Bitcoin.
 <h1 class="page-title">Learning Resources</h1>
 
 {{< getting-started >}}
-<p>Work through the steps on <a href="https://bitcoin-intro.com/" target="_blank">bitcoin-intro.com</a>.</p>
+<p>Work through the steps on <a href="https://btcintro.rottenwheel.com/" target="_blank">btcintro.rottenwheel.com</a>.</p>
 {{< /getting-started >}}
 
 <h3>Articles</h3>
@@ -61,7 +61,7 @@ Bitcoin Slides|https://www.bitcoin-studio.com/resources|Comprehensive slides
 Bitcoin Support|https://guides.bitcoinsupport.com/|Self-custody and privacy guides
 Bitcoin Translated|https://bitcoin-translated.ru/|Russian translations of articles & books
 Bitcoin.org|https://bitcoin.org/|Bitcoin information
-Bitcoin-Intro|https://bitcoin-intro.com/|Step by Step bitcoin onboarding guide
+Bitcoin-Intro|https://btcintro.rottenwheel.com/|Step by Step bitcoin onboarding guide
 BitKnow|https://thebitgeneration.org/|Quality Bitcoin blog
 Chaincode Study Groups|https://github.com/chaincodelabs/study-groups|Bitcoin & Lightning study guides
 Estudio Bitcoin|https://estudiobitcoin.com/|Resources for Spanish Bitcoiners
