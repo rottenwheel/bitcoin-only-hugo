@@ -22,6 +22,6 @@ description: "How to promote Bitcoin Only."
 <li><span>3)</span>Take a photo of the poster and tag <a href="https://twitter.com/rottenwheel1" target="_blank">@rottenwheel1</a> on X.</li>
 </ul>
 
-<img class="bitcoin-only-poster" src="/bitcoin-only-poster.jpg" alt="Bitcoin Only Poster">
+<img class="bitcoin-only-poster" src="/bitcoin-only-poster.png" alt="Bitcoin Only Poster">
 
 </div>
