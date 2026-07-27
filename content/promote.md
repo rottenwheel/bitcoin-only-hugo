@@ -14,12 +14,12 @@ description: "How to promote Bitcoin Only."
 
 <h3>In Meatspace</h3>
 
-<p>Want to help promote bitcoin-only.com? The poster below was designed by Phneep.</p>
+<p>Want to help promote btc.rottenwheel.com? The poster below was designed by Phneep.</p>
 
 <ul class="poster-instructions">
 <li><span>1)</span>Print it out</li>
 <li><span>2)</span>Put it up somewhere public</li>
-<li><span>3)</span>Take a photo of the poster and tag <a href="https://twitter.com/bitcoinonly_" target="_blank">@bitcoinonly_</a> on twitter</li>
+<li><span>3)</span>Take a photo of the poster and tag <a href="https://twitter.com/rottenwheel1" target="_blank">@rottenwheel1</a> on X.</li>
 </ul>
 
 <img class="bitcoin-only-poster" src="/bitcoin-only-poster.jpg" alt="Bitcoin Only Poster">
