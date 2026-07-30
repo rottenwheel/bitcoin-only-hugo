@@ -10,7 +10,7 @@ description: "How to promote Bitcoin Only."
 <h3 class="first">On Your Podcast / Website</h3>
 
 <p>We are proud to have been mentioned on a number of podcasts &amp; websites.</p>
-<p>Please let us know if you mention bitcoin-only.com on your podcast / website!</p>
+<p>Please let us know if you mention btc.rottenwheel.com on your podcast / website!</p>
 
 <h3>In Meatspace</h3>
 
