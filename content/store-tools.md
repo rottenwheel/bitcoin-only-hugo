@@ -10,6 +10,7 @@ description: "A collection of tools that help you accept Bitcoin."
 <p class="explainer">These tools help you accept Bitcoin only.</p>
 
 {{< table headers="Name,Description" >}}
+Bitcoin Invoice Builder|https://babavictim.github.io/website-repair-sprint/invoice/|A browser-only builder for validated Bitcoin URIs and QR codes
 BullBitcoin|https://bullbitcoin.com/|Non-custodial Bitcoin services
 chainside|https://www.chainside.net/en/home/|Payments processor
 LNPay|https://lnpay.co/|Lighting Network payments processor
