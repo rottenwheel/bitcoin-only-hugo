@@ -29,6 +29,7 @@ Muun Wallet|https://muun.com/|<span class="feature-no" aria-label="no">○</span
 
 {{< table headers="Project,Description,Platform" >}}
 Bitcoin Core|https://bitcoincore.org/|Full node & Bitcoin wallet|Desktop
+Bitcoin-Safe|https://bitcoin-safe.org|Confidently manage your cold storage wallets|Desktop
 Bitkit Wallet|https://bitkit.to/|Self-custodial Bitcoin Wallet|iOS & Android
 Blockstream Green|https://blockstream.com/green/|Bitcoin Wallet with option for 2FA & HW|iOS, Android & Desktop
 Blue Wallet|https://bluewallet.io/|Feature rich Bitcoin wallet<sup>[1]</sup>,<sup>[7]</sup>|iOS, Android, MacOS
