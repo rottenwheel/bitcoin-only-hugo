@@ -76,6 +76,7 @@ Lightning Hosted|https://lightninghosted.com/|Simple image hosting
 Madex Art|https://madex.art/|Regalia, fine art, & clothing
 Mt. Socks|https://www.mtsocks.com/|Socks
 Original Satoshi|https://www.originalsatoshi.com/|Stickers & more
+PikaSim|https://pikasim.com/|Sells eSIM mobile data plans for 190+ countries.
 PirateHash|https://piratehash.com/|Bitcoin curiosities & educational materials
 Quinsolo|https://quinsolo.com/|Coasters, magnets, & more
 Sats Ledger|https://www.satsledger.com/|Bitcoin savings book for kids
