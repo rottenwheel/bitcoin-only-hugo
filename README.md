@@ -1,8 +1,9 @@
 # Bitcoin Only (Hugo)
 
-Static site for [btc.rottenwheel.com](https://btc.rottenwheel.com/): a directory of **Bitcoin only** resources (wallets, meetups, books, tools, etc.). Forgejo [mirror](https://git.private.coffee/rottenwheel/bitcoin-only-hugo), courtesy of [private.coffee](https://private.coffee/). More [here](https://git.bloat.cat/rottenwheel/bitcoin-only-hugo) (Forgejo).
+Static site for [btc.rottenwheel.com](https://btc.rottenwheel.com/): a directory of **Bitcoin only** resources (wallets, meetups, books, tools, etc.). Forgejo [mirror](https://git.private.coffee/rottenwheel/bitcoin-only-hugo), courtesy of [private.coffee](https://private.coffee/). More Forgejo mirrors [here](https://git.bloat.cat/rottenwheel/bitcoin-only-hugo) and [here](https://git.nadeko.net/rottenwheel/bitcoin-only-hugo) too. Shout-out to [bloat.cat](https://bloat.cat/) and [nadeko.net](https://git.nadeko.net/rottenwheel/bitcoin-only-hugo) for hosting them.
 
-This repository is the **Hugo** version of the site (previously Nuxt/Vue). Hugo generates static HTML: no Node needed in production. Upstream [repository](https://github.com/bitcoin-only/bitcoin-only).
+This repository is the **Hugo** version of the site (previously Nuxt/Vue). Hugo generates static HTML: no Node needed in production.
+Upstream [repository](https://github.com/bitcoin-only/bitcoin-only).
 
 ---
 
