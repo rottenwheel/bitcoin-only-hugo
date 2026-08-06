@@ -35,7 +35,7 @@ Fold App|https://foldapp.com/|Buy vouchers with Bitcoin cashback
 Host4Coins|https://host4coins.net/|VPS Hosting
 LNsms|https://lnsms.world/|Send texts worldwide and pay with Lightning
 paybtc|https://paybtc.com.au/|Pay any Australian bank account or BPAY bill with Bitcoin
-PikaSim|https://pikasim.com/|Sells eSIM mobile data plans for 190+ countries.
+PikaSim|https://pikasim.com/|Buy eSIM mobile data plans for 190+ countries
 Spacebit|https://spacebit.live/|Send messages via satellite
 Woleet|https://www.woleet.io/|Timestamping service
 Voltage|https://getvoltage.io/|Cloud Lightning node hosting
