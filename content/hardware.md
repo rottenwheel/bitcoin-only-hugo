@@ -9,8 +9,8 @@ description: "A collection of Bitcoin hardware."
 
 {{< getting-started >}}
 <ul>
-<li> Samourai Wallet users: Buy a <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">Nodl Samourai Edition</a></li>
-<li> Blue Wallet users: Buy a <a href="http://mynodebtc.com/products/one" target="_blank">MyNode</a></li>
+<li> Ashigaru Wallet users: Buy a <a href="https://store.start9.com/collections/servers/products/server-one" target="_blank">Start9 Server One</a> & install <a href="https://community.start9.com/t/marketplace-integration-bounty-dojo/2209/24" target="_blank">Dojo</a></li>
+<li> Blue Wallet users: Buy a <a href="https://umbrel.com/" target="_blank">Umbrel</a></li>
 <li> Secure your bitcoin: Buy a pre-assembled or build a <a href="https://seedsigner.com/" target="_blank">SeedSigner</a> yourself.</li>
 </ul>
 {{< /getting-started >}}
