@@ -49,7 +49,6 @@ Bitpiggys|https://www.bitpiggys.com/|Piggybank + Opendime
 Blockclock|https://getblockclock.com/|Electromechanical Bitcoin interface
 Blockclock Mini|https://blockclockmini.com/|Digital Bitcoin interface
 Coldbit|https://coldbit.com/|Bitcoin mnemonic seed backup
-Coldcard|https://coldcardwallet.com/|Cold storage hardware wallet
 Hodlinox|https://hodlinox.com/|Bitcoin mnemonic seed backup
 Laser Eyes Cards|https://lasereyes.cards/|Illuminated NFC lightning (bolt) cards
 Opendime|https://opendime.com/|Bitcoin bearer bond
