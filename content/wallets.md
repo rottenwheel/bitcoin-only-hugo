@@ -10,7 +10,7 @@ description: "A collection Bitcoin only wallets."
 {{< getting-started >}}
 <ul>
 <li>Desktop: <a href="https://www.sparrowwallet.com/" target="_blank">Sparrow Wallet</a> connected to <a href="https://bitcoincore.org/" target="_blank">Bitcoin Core</a></li>
-<li>Android: <a href="https://samouraiwallet.com/" target="_blank">Samourai Wallet</a></li>
+<li>Android: <a href="https://ashigaru.rs/" target="_blank">Ashigaru Wallet</a></li>
 <li>Lightning: <a href="https://muun.com/" target="_blank">Muun Wallet</a></li>
 </ul>
 {{< /getting-started >}}
