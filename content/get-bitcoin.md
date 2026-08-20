@@ -21,7 +21,7 @@ SBB Railway Station|https://www.sbb.ch/en/station-services/at-the-station/servic
 
 <h3>Buy (other)</h3>
 
-<p class="explainer">If you want to use KYC on-ramps (despite the <a href="https://bitcoinqna.github.io/noKYConly1/" target="_blank">risks</a>) there are the following Bitcoin-only options which enforce taking self custody.</p>
+<p class="explainer">If you want to use KYC on-ramps (despite the <a href="https://blog.rottenwheel.com/posts/no-kyc-only/" target="_blank">risks</a>) there are the following Bitcoin-only options which enforce taking self custody.</p>
 
 {{< table headers="Name,Description,Location,Auto DCA" >}}
 Bitcoin Reserve|https://bitcoinreserve.com/|Buy|EU|No
