@@ -28,7 +28,7 @@ Bitcoin Reserve|https://bitcoinreserve.com/|Buy|EU|No
 Bitkipi|https://bitkipi.com/|Buy|EU|Yes
 Bitonic|https://bitonic.nl/|Buy & Sell|Netherlands|?
 Bittr|https://getbittr.com/|Buy|EU|Yes
-BullBitcoin|https://bullbitcoin.com/|Buy & Sell|Canada|Yes
+BullBitcoin|https://bullbitcoin.com/|Buy & Sell|Canada, EU, some LatAm|Yes
 FastBitcoins|https://fastbitcoins.com/|Buy & Sell|Canada & UK|Yes
 Pocket Bitcoin|https://pocketbitcoin.com/|Buy|EU|Yes
 Relai|https://relai.app/|Buy & Sell|EU|Yes
