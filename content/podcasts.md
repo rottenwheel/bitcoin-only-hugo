@@ -33,6 +33,7 @@ Bottomshelf Bitcoin|https://bottomshelfbitcoin.com/|Putting Bitcoin within every
 Citadel Dispatch|https://citadeldispatch.com/|Weekly technical bitcoin show
 Citizen Bitcoin|https://citizenbitcoin.world/|Interviews with Bitcoiners
 Closing the Loop|https://www.seetee.io/podcast/|Interviews with Bitcoiners
+Don't Trust, Verify|https://www.youtube.com/@FYouMoneyPT|Bitcoin-only show in European Portuguese
 Fun With Bitcoin|https://anchor.fm/funwithbitcoin|Interviews with Bitcoiners
 Jan 3 Podcast|https://jan3podcast.com/|Persian language bitcoin podcast
 Noded|https://noded.org/podcast/|Michael Goldstein and Pierre Rochard
