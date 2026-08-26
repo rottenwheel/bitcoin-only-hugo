@@ -30,6 +30,7 @@ Bitonic|https://bitonic.nl/|Buy & Sell|Netherlands|?
 Bittr|https://getbittr.com/|Buy|EU|Yes
 BullBitcoin|https://bullbitcoin.com/|Buy & Sell|Canada, EU, some LatAm|Yes
 FastBitcoins|https://fastbitcoins.com/|Buy & Sell|Canada & UK|Yes
+Maxfy|https://maxfy.app/|Buy|N/A|No
 Pocket Bitcoin|https://pocketbitcoin.com/|Buy|EU|Yes
 Relai|https://relai.app/|Buy & Sell|EU|Yes
 Unchained Capital|https://unchained.com/buy-bitcoin/|Buy|USA|No
