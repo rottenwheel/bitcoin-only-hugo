@@ -25,8 +25,7 @@ Why Bitcoin|https://medium.com/@wiz/why-bitcoin-359ada12629e|Security, privacy, 
 Citadel 21|https://www.citadel21.com/|Monthly Bitcoin cultural zine
 Lightning Hood (Inactive)|https://medium.com/@lightninghood|Weekly summary of Bitcoin and Lightning Network news
 Lightning Labs|https://lightninglabs.substack.com/archive|Lightning Network news
-Bitcoin Monthly|https://bitcoiner.guide/monthly|Monthly index of Bitcoin and Lightning Network news and developments
-The Bitcoin Times|https://bitcointimes.news/|A beautiful, informative and stylish publication released 2-3 times per year
+The Bitcoin Act|https://thebitcoinact.xyz/|Twice-weekly newsletter on Bitcoin law and regulation
 {{< /table >}}
 
 <h3>Classes</h3>
