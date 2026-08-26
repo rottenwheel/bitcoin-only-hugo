@@ -29,6 +29,7 @@ Bitkipi|https://bitkipi.com/|Buy|EU|Yes
 Bitonic|https://bitonic.nl/|Buy & Sell|Netherlands|?
 Bittr|https://getbittr.com/|Buy|EU|Yes
 BullBitcoin|https://bullbitcoin.com/|Buy & Sell|Canada, EU, some LatAm|Yes
+Coinfinity|https://coinfinity.co/en|Buy & Sell|EU|Yes
 FastBitcoins|https://fastbitcoins.com/|Buy & Sell|Canada & UK|Yes
 Maxfy|https://maxfy.app/|Buy|N/A|No
 Pocket Bitcoin|https://pocketbitcoin.com/|Buy|EU|Yes
