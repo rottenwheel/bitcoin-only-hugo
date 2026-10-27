@@ -144,6 +144,7 @@ USA||Texas|<a href="https://www.meetup.com/Austin-Bitcoin-Developers/" target="_
 USA||Texas|<a href="https://austinbitcoinclub.com" target="_blank">Austin</a>|<a href="https://twitter.com/AustinBTCclub" target="_blank">@AustinBTCclub</a>
 USA||Texas|<a href="https://www.meetup.com/brownsville-bitcoin/" target="_blank">Brownsville </a>|<a href="https://twitter.com/jaimeandresdiez" target="_blank">@jaimeandresdiez</a>
 USA||Texas|<a href="https://twitter.com/DTXbitcoiners" target="_blank">Dallas–Fort Worth</a>|<a href="https://twitter.com/DTXbitcoiners" target="_blank">@DTXbitcoiners</a>
+USA||Texas|<a href="https://luma.com/calendar/cal-7LdBWkUpnCp5CjU" target="_blank">McKinney</a>|<a href="https://x.com/wahiddotmy" target="_blank">@wahiddotmy</a>
 USA||Texas|<a href="https://www.sanantoniobitcoinclub.com/" target="_blank">San Antonio</a>|<a href="hhttps://twitter.com/SABTCclub" target="_blank">@SABTCclub</a>
 USA||Indiana|<a href="https://indybtc.com" target="_blank">Indianapolis</a>|<a href="https://twitter.com/IndyBitcoin" target="_blank">@IndyBitcoin</a>
 USA||Alabama|<a href="https://www.meetup.com/HuntsvilleBitcoin/" target="_blank">Huntsville</a>|<a href="https://twitter.com/HuntsvilleBTC" target="_blank">@HuntsvilleBTC</a>
