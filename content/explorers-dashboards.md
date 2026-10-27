@@ -42,6 +42,7 @@ Bitcoin Treasuries|https://bitcointreasuries.net/|Publicly-traded companies hold
 Braiins Insights|https://insights.braiins.com/en/|Mining Stats & Graphs
 Clark Moody Dashboard|https://bitcoin.clarkmoody.com/dashboard/|Bitcoin & LN metrics
 Priced In Bitcoin|https://www.pricedinbitcoin21.com/about|Price of assets in BTC
+Solo Blocks|https://soloblocks.io/|Bitcoin solo-mining block tracker
 {{< /table >}}
 
 <h3>Offline Bitcoin</h3>
