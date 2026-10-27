@@ -15,6 +15,7 @@ description: "List of places where you can spend your Bitcoin."
 
 {{< table headers="Name,Description" >}}
 Bitcoin Dev List|https://bitcoindevlist.com/|Donate to various Bitcoin developers
+Once Upon a Bit|https://onceuponabit.com/en|Give Bitcoin to a kid, fully non-custodial
 {{< /table >}}
 
 <h3>Services</h3>
