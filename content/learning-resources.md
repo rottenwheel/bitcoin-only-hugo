@@ -49,6 +49,7 @@ Towards Liberty|http://towardsliberty.com/|Bitcoin mentorship
 10hoursofbitcoin|https://10hoursofbitcoin.com/|Links to 10h of Bitcoin lessons
 Aprycot Media|https://aprycot.media/|German Bitcoin books, media library and podcasts
 BIPs|https://bips.xyz/|Explorer for BIPs. View, search and share easily BIPs
+BitAtlasDE|https://www.bitatlas.de/wissen/|Bitcoin-only education in **German**: explainers, self-custody guides and free calculators
 Bitcoin Briefly|https://bitcoinbriefly.com/|Brief Bitcoin Explanations
 Bitcoind.me|https://bitcoind.me/|Persian resources - translated books, tutorials and more
 Bitcoin Designed|https://www.bitcoindesigned.com/|Striking Bitcoin infographics
